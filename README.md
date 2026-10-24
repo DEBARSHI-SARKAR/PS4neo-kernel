@@ -1,2 +1,3 @@
-# neo-workstation
-PS4linux_6.8.12 pre-compiled upsteam kernel from .DEB-neo-Workstation
+# Neo & crashniels pre-compiled kernels for PS4linux
+
+ PS4linux_6.x pre-compiled upstream kernel from .DEB-neo-Workstation & crashniels-KHEOPS 
